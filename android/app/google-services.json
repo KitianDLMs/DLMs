@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634384641257",
+    "project_id": "dlms-65346",
+    "storage_bucket": "dlms-65346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634384641257:android:fdc6715b597a39c1bdd478",
+        "android_client_info": {
+          "package_name": "com.echnelapp.DLMs.dlms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMB23hGPRvfL6MkB_24id84bCiIWMmEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
